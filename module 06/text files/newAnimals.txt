@@ -1,0 +1,24 @@
+BearHabitat: 
+Be01; Snuggles; birth date: 2018-01-26; brown color; 320 pounds; from Alaska Zoo Alaska; arrived: 2023-10-31
+Be02; Yogi; birth date: 2000-01-02; black color; 425 pounds; from Woodland park Zoo Washington; arrived: 2010-03-31
+Be03; Yogi; birth date: 2021-01-02; black color; 355 pounds; from Woodland park Zoo Washington; arrived: 2024-10-21
+Be04; Baloo; birth date: 2021-01-17; brown color; 405 pounds; from Alaska Zoo Alaska; arrived: 2022-08-28
+
+HyenaHabitat: 
+Hy01; Shenzi; birth date: 2021-01-01; tan color; 70 pounds; from Friguia Park Tunisia; arrived: 2022-02-22
+Hy02; Banzai; birth date: 2013-01-05; brown color; 150 pounds; from Friguia Park Tunisia; arrived: 2019-07-07
+Hy03; Nne; birth date: 2021-01-24; black color; 120 pounds; from Friguia Park Tunisia; arrived: 2022-09-21
+Hy04; Lou; birth date: 2017-01-15; black and tan striped color; 105 pounds; from Friguia Park Tunisia; arrived: 2025-05-17
+
+LionHabitat: 
+Li01; Kimba; birth date: 2019-01-17; tan color; 300 pounds; from Zanzibar Tanzania; arrived: 2024-01-02
+Li02; Simba; birth date: 2013-01-07; dark tan color; 375 pounds; from KopeLion Tanzania; arrived: 2020-09-01
+Li03; Scar; birth date: 2003-01-02; golden color; 450 pounds; from Zanzibar Tanzania; arrived: 2012-01-13
+Li04; Leo; birth date: 2021-01-22; tan and brown color; 275 pounds; from KopeLion Tanzania; arrived: 2024-08-29
+
+TigerHabitat: 
+Ti01; Jiba; birth date: 2023-01-22; gold and tan stripes color; 270 pounds; from Dhaka Bangladesh; arrived: 2025-07-03
+Ti02; Ryker; birth date: 2021-01-29; black stripes color; 400 pounds; from Dhaka Bangladesh; arrived: 2024-05-22
+Ti03; Cosimia; birth date: 2007-01-12; gold and tan color; 300 pounds; from Bardia Nepal; arrived: 2024-10-09
+Ti04; Dave; birth date: 2022-01-17; black stripes color; 285 pounds; from Bardia Nepal; arrived: 2023-09-10
+
